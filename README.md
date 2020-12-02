@@ -106,8 +106,8 @@ Para baixar e utilizar este projeto é necessário que o Yarn esteja instalado.
 No terminal:
 
 ```bash
-$ git clone https://github.com/raulneto90/gostack-project-crud
-$ cd gostack-project-crud
+$ git clone https://github.com/raulneto90/gostack-desafio01
+$ cd gostack-desafio01
 
 # Instalar as dependências do projeto
 $ yarn
